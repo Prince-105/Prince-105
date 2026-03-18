@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 It's Me Prince
 
-<!--
+Computer Science Engineering Student
 **Prince-105/Prince-105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 Here's My [potfolio]()
+- 🌱 I’m currently learning DSA 
+- 👯 I’m looking to collaborate on projects and real-world applications.
+- 🤔 I’m looking for help with Placements
+- 💬 Ask me about Tech
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: Fitness Enthusiast💪
+  
